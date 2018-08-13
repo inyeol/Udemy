@@ -1,0 +1,14 @@
+##############
+#UnrealGenerated#
+##############
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+############
+#VCGenerated#
+############
+*.VC.db
